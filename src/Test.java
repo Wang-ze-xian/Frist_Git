@@ -3,5 +3,6 @@ public class Test {
         System.out.println("LPL NB!");
         System.out.println("FPX IG NB!");
         System.out.println("RNG NB!");
+        System.out.println("Faker NB!");
     }
 }
